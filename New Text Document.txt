@@ -1,0 +1,14 @@
+https://www.free-css.com/free-css-templates
+
+http://3.0.139.66/
+
+https://github.com/VinCloud1/Devops13thOct
+
+https://github.com/VinCloud1/Devops13thOct/tree/main/Tomcat
+
+https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html
+
+https://labs.play-with-k8s.com/
+
+Sign in URL: https://microdegree.thinkific.com/users/sign_in
+
